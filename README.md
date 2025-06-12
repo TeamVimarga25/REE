@@ -8,4 +8,6 @@
    
    ree_critical_min_ngdr_20250425115327129.shp- REE deposit information from ngdr
 
-   REE_combined.tif - Final stacked REE input tif file
+   REE_combined_mod.tif - Provided in the google drive link
+
+     
